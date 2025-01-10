@@ -1,0 +1,350 @@
+body {
+	text-align: center;
+	background-color: pink;
+	font-family: Roboto Condensed;
+	color: white;
+}
+
+h1 {
+	padding-top: 5%;
+	color: brown;
+}
+
+.navbar {
+	padding:5px;
+}
+
+.cho {
+	background-color: brown;
+}
+
+.search {
+	margin-right: 5px;
+	padding-left: 7%;
+	border: 3px solid brown;
+}
+
+.search:hover {
+	background-color: brown;
+}
+
+.lala {
+	border: brown solid 5px;
+	border-radius: 5px;
+	padding: 2px;
+	margin: 12%;
+	height: 500px;
+	background-color: brown;
+}
+
+.car {
+	height: 480px;
+	width:80%;
+}
+
+.put {
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: left;
+}
+
+.Info {
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: rgba(132,48,39,0.7);
+	margin-top: 4%;
+	margin-bottom: 10%;
+	padding: 30px;
+	text-align: left;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+h2 {
+	color: lightpink;
+	text-align: center;
+}
+
+
+.recipe {
+	background-color: rgba(132,48,39,0.7);
+	border: 5px solid;
+	border-radius: 10px;
+	width: 70%;
+}
+
+.fo {
+	min-width: 200px;
+}
+
+.ur {
+	color: lightpink;
+}
+
+.categ {
+	background-color: rgba(132,48,39,0.7);
+	border: 5px solid;
+	border-radius: 10px;
+	padding: 5pxs;
+}
+
+.cap {
+	background-color: rgba(114,60,38,0.8);
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+.capp {
+	background-color: rgba(250,250,250,0.9);
+	color: brown;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: grey;
+}
+
+.regi {
+	border: 3px solid pink;
+}
+
+.regi:hover {
+	background-color: brown;
+}
+
+/*Breakfast*/
+
+.champo {
+	background-image: url(champo.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.toci {
+	background-image: url(tocino.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.tapsilog {
+	background-image: url(tapsilog.webp);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.longsilog {
+	background-image: url(longsilog.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.sinangag {
+	background-image: url(sinangag.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+/*Main*/
+
+.adobo {
+	background-image: url(adobo.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.sinigang {
+	background-image: url(sinigang.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.menudo {
+	background-image: url(menudo.jpg);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.pancit {
+	background-image: url(pancit.webp);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+.tinola {
+	background-image: url(tinola.webp);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+/*Snacks*/
+
+.turon {
+	background-image: url(turon.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.bibingka {
+	background-image: url(bibingka.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.taho {
+	background-image: url(taho.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.puto {
+	background-image: url(puto.webp);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.fishball {
+	background-image: url(fishball.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+/*Dessert*/
+
+.halo {
+	background-image: url(halo.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.flan {
+	background-image: url(flan.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.pastillas {
+	background-image: url(pastillas.jpg);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.biko {
+	background-image: url(biko.png);
+	background-size: 115%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.ube {
+	background-image: url(ube.webp);
+	background-size: 100%;
+	padding: 10px;
+	height: 200px;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+/*Individual Recipes*/
+
+.rcpe {
+	padding: 8px;
+	width: 90%;
+	background-color: rgba(132,48,39,0.9);
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: left;
+	border-radius: 10px;
+	border: 5px solid;
+}
+
+.fud {
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.fudit {
+	border-radius: 10px;
+	width: 100%;
+	height: 100%;
+}
+
+.insg {
+	background-color: rgba(235,220,215,0.5);
+	margin-right: 15px;
+	border-radius: 10px;
+}
+
+/*Footer*/
+
+.footer {
+	background-color: brown;
+	text-align: center;
+	padding: 20px;
+}
+
+.footer:hover {
+	background-color: rgba(132,48,39,0.9);
+}
